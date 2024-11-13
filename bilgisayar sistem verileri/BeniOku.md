@@ -16,6 +16,12 @@ Bu program Windows işletim sisteminde çalışan bilgisayarların donanım ve s
 
 ## Program Çıktısı
 
+Computer Technical Diagnostic Tool, sistemdeki tüm cihazları tek bir tıklamayla analiz eder ve size zaman ve iş gücünden büyük tasarruf sağlar. 
+Bu araç, işletmenizin donanım ve yazılım altyapısını etkin bir şekilde yönetmenizi sağlayarak iş süreçlerinizin kesintisiz ve verimli bir şekilde devam etmesine olanak tanır.
+Manuel kontrolün getirdiği hata riskini ortadan kaldırarak, hatasız ve doğru sistem bilgilerini size sunar. IT departmanınızın yükünü hafifletmek ve daha stratejik işlere 
+odaklanmalarını sağlamak için mükemmel bir çözümdür. Anında raporlama ve analiz özelliği ile cihazlarınızın durumu hakkında hızlı ve doğru bilgiler elde edersiniz. 
+Genişleyen altyapınızı daha iyi yönetmek için tasarlanmış bu araç, büyüme hedeflerinize uyum sağlar.
+
 Program çalıştığında aşağıdaki bilgileri toplayıp Belgelerim klasörüne Excel dosyası olarak kaydeder:
 
 - Cihaz adı
