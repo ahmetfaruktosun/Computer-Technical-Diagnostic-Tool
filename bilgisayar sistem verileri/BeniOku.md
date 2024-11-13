@@ -2,19 +2,10 @@
 
 Bu program Windows işletim sisteminde çalışan bilgisayarların donanım ve sistem bilgilerini toplar ve Belgelerim klasörüne Excel dosyası olarak kaydeder.
 
-## Kurulum ve Çalıştırma
 
-1. Python'u bilgisayarınıza yükleyin (https://www.python.org/downloads/)
-2. Gerekli kütüphaneleri yükleyin:
-   ```
-   npm run setup
-   ```
-3. Programı çalıştırın:
-   ```
-   npm start
-   ```
 
-## Program Çıktısı
+
+
 
 Computer Technical Diagnostic Tool, sistemdeki tüm cihazları tek bir tıklamayla analiz eder ve size zaman ve iş gücünden büyük tasarruf sağlar. 
 Bu araç, işletmenizin donanım ve yazılım altyapısını etkin bir şekilde yönetmenizi sağlayarak iş süreçlerinizin kesintisiz ve verimli bir şekilde devam etmesine olanak tanır.
